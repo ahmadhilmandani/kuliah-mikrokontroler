@@ -2,7 +2,7 @@
 
 ## Code 🧑‍💻
 code dapat didownload pada link 👇
-* https://drive.google.com/drive/folders/18AwONR7YzqzHGH3rHPNRau_PY2Po4CW0?usp=sharing
+* https://drive.google.com/drive/folders/1qDOu3Hsz2D358sLYCHpGEZ6Hzi5zE8DY?usp=sharing
 
 ## how to run the code 🤔
 1. pengaturan Pengaturan File - Preferences:
