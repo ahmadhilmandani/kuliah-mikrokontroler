@@ -11,7 +11,7 @@ code dapat didownload pada link 👇
     Lalu, **paste di file-preference**
   
   *Install ESP32 di Board Manager. pilih ESP32 seperti gambar 👇
-    - ![Alt text](image.png)
+    - ![Alt text](esp32.png)
   
 2. Buka file code yang telah di upload
 3. Pilih board 👉 esp32 -> DOIT ESP32 DEVKIT V1 
@@ -19,7 +19,7 @@ code dapat didownload pada link 👇
 
 
 ## Output 📤
-- ![Alt text](image.png)
+- ![Alt text](hasil.png)
 
 
 ## Catatan tambahan 📝
