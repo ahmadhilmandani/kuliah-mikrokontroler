@@ -1,8 +1,10 @@
 # Tugas 7
 
 ## Code 🧑‍💻
-code dapat didownload pada link 👇
-* https://drive.google.com/drive/folders/18AwONR7YzqzHGH3rHPNRau_PY2Po4CW0?usp=sharing
+ada beberapa code yang perlu didownload dan dijalankan untuk menyelesaikan tugas ke-5. berikut linknya 👇
+1. program **kit iTCLab** : https://drive.google.com/drive/folders/1zMlYYIKkzEP1eJMkpA20U_GNZCOM_uaL?usp=sharing
+2. **modul** : https://drive.google.com/file/d/1oQyxYULVf1Zy7XpI8z99GBCsI6E1WRiu/view?usp=sharing
+3. link github, silahkan clone atau download : https://github.com/evertoncolling/tclab_jupyter 
 
 ## how to run the code 🤔
 1. pengaturan Pengaturan File - Preferences:
@@ -15,12 +17,14 @@ code dapat didownload pada link 👇
   
 2. Buka file code yang telah di upload
 3. Pilih board 👉 esp32 -> DOIT ESP32 DEVKIT V1 
-4. Klik upload untuk menjalankan code 
+4. jalankan **kit iTCLab** di arduino IDE
+5. buka jupiter notbook
+6. letakkan **program modul** di root direktori yang sama dengan program hasil clone pada github **https://github.com/evertoncolling/tclab_jupyter**
+7. jalankan program hasil clone pada link **https://github.com/evertoncolling/tclab_jupyter**
 
 
 ## Output 📤
-- ![Alt text](mikro-tgs-4.jpg)
-
+hasil berupa video berikut tautan video tersebut: https://drive.google.com/file/d/10z1jXSTOs8EpfYjB4OecQ9RQcJp4ADTB/view?usp=sharing
 
 ## Catatan tambahan 📝
 -
