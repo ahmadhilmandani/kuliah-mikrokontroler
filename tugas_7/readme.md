@@ -1,7 +1,7 @@
 # Tugas 7
 
 ## Code 🧑‍💻
-ada beberapa code yang perlu didownload dan dijalankan untuk menyelesaikan tugas ke-5. berikut linknya 👇
+ada beberapa code yang perlu didownload dan dijalankan untuk menyelesaikan tugas ke-7. berikut linknya 👇
 1. program **kit iTCLab** : https://drive.google.com/drive/folders/1zMlYYIKkzEP1eJMkpA20U_GNZCOM_uaL?usp=sharing
 2. **modul** : https://drive.google.com/file/d/1oQyxYULVf1Zy7XpI8z99GBCsI6E1WRiu/view?usp=sharing
 3. link github, silahkan clone atau download : https://github.com/evertoncolling/tclab_jupyter 
